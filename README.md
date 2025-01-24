@@ -2,7 +2,7 @@
 
 The **Calculator Web App** is an interactive calculator application built with JavaScript on Code.org. This project was developed as part of my **AP Computer Science Project** during my **sophomore (10th grade) year in Fall 2021**. It provides a dynamic and user-friendly interface for performing various mathematical operations.
 
-**Try the Calculator Web App here:** [Calculator Web App on Code.org](https://studio.code.org/projects/applab/3WR9OYo6Ec9k-4s11Py6MJgsYf2YXyuzsq3icY61NWg)
+**[Try the Calculator Web App on Code.org](https://studio.code.org/projects/applab/3WR9OYo6Ec9k-4s11Py6MJgsYf2YXyuzsq3icY61NWg)**
 
 ## About the Project
 
